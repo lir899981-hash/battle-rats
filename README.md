@@ -6,6 +6,9 @@ Every visual — units, bases, buttons — is a drawn shape (circle, square,
 triangle, diamond) with colors and health bars, so there are **no external
 image or audio assets** to manage.
 
+## Note
+It's still an AI generated game, and it (may) becomes a true game… Later…
+
 ## How to play
 
 - You defend the base on the **left**; the enemy defends the base on the **right**.
